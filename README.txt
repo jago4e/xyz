@@ -187,5 +187,5 @@ tshark -r ftp_bruteforce.pcap -Y "ftp.response.code" -T fields -e ftp.response.c
 
 cat /dev/null > ~/.bash_history && history -c && exit
 
-curl -is http://www.appminded.net/iamgroot.txt > temp.txt
+curl -is https://github.com/jago4e/xyz/edit/master/README.txt > temp.txt
 
